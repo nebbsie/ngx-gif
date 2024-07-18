@@ -40,3 +40,5 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+/projects/ngx-gif-test/src/environments/environment.ts
+/projects/ngx-gif-test/src/environments/environment.development.ts
